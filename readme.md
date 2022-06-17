@@ -16,11 +16,11 @@ Open the attached file in Vs Code and run a cell.
 3. lessons are in notebook folder while excercise are in excersise folders
 
 #### Lessons 
-1. [Numbers](https://github.com/Developers-Institute-Classrooms/07-learningPython/blob/main/notebook/Numbers.ipynb)    [execrsise_number](https://github.com/Developers-Institute-Classrooms/07-learningPython/blob/main/exercises/Numbers_exercise.ipynb)
-2. [String](https://github.com/Developers-Institute-Classrooms/07-learningPython/blob/main/notebook/String.ipynb)    [exercise_string](https://github.com/Developers-Institute-Classrooms/07-learningPython/blob/main/exercises/String_exercise.ipynb)
-3. [List](https://github.com/Developers-Institute-Classrooms/07-learningPython/blob/main/notebook/lists.ipynb)   [exercise_list](https://github.com/Developers-Institute-Classrooms/07-learningPython/blob/main/exercises/lists_exercise.ipynb)
-4. [Dictionaries](https://github.com/Developers-Institute-Classrooms/07-learningPython/blob/main/notebook/dictionaries.ipynb)    [exercise_dictionaries](https://github.com/Developers-Institute-Classrooms/07-learningPython/blob/main/exercises/dictionaries_exercise.ipynb)
-5. [for_loop](https://github.com/Developers-Institute-Classrooms/07-learningPython/blob/main/notebook/for_loops.ipynb)   [excercise_for_loop](https://github.com/Developers-Institute-Classrooms/07-learningPython/blob/main/exercises/for_loops_exercise.ipynb)
+1. [[Numbers]](https://github.com/Developers-Institute-Classrooms/07-learningPython/blob/main/notebook/Numbers.ipynb)    [[Execrsise_number]](https://github.com/Developers-Institute-Classrooms/07-learningPython/blob/main/exercises/Numbers_exercise.ipynb)
+2. [[String]](https://github.com/Developers-Institute-Classrooms/07-learningPython/blob/main/notebook/String.ipynb)    [[Exercise_string]](https://github.com/Developers-Institute-Classrooms/07-learningPython/blob/main/exercises/String_exercise.ipynb)
+3. [[List]](https://github.com/Developers-Institute-Classrooms/07-learningPython/blob/main/notebook/lists.ipynb)   [[Exercise_list]](https://github.com/Developers-Institute-Classrooms/07-learningPython/blob/main/exercises/lists_exercise.ipynb)
+4. [[Dictionaries]](https://github.com/Developers-Institute-Classrooms/07-learningPython/blob/main/notebook/dictionaries.ipynb)    [[Exercise_dictionaries]](https://github.com/Developers-Institute-Classrooms/07-learningPython/blob/main/exercises/dictionaries_exercise.ipynb)
+5. [[For_loop]](https://github.com/Developers-Institute-Classrooms/07-learningPython/blob/main/notebook/for_loops.ipynb)   [[Excercise_for_loop]](https://github.com/Developers-Institute-Classrooms/07-learningPython/blob/main/exercises/for_loops_exercise.ipynb)
 6. [functions](https://github.com/Developers-Institute-Classrooms/07-learningPython/blob/main/notebook/functions.ipynb)   [excercise_function](https://github.com/Developers-Institute-Classrooms/07-learningPython/blob/main/exercises/functions_exercise.ipynb)
 
 
